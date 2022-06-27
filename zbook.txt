@@ -1,0 +1,5 @@
+tipos de operações graphql
+
+query = buscar dados;
+mutation = criar, alter ou deletar dados;
+
